@@ -129,6 +129,3 @@ In accordance with the DSA 210 Project Guidelines regarding Academic Integrity, 
 
 **Declaration:** All ideas, project direction, and data logging for the objective metrics (Sleep, Screen Time, Study Hours, Classes) were completed independently. The AI was used strictly as a technical assistant to format the data, write boilerplate Python code, and structure the final MD documents.
 
-
-
-we are gonna go with thi
