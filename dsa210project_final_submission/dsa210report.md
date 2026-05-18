@@ -95,7 +95,7 @@ Future iterations of this data science project could scale up by:
 
 # Appendix: AI Tool Usage Declaration
 
-
+-The AI Tool Usage Declaration part of the dsa210report.md file was also written and formatted using Gemini.
 
 In accordance with the DSA 210 Project Guidelines regarding Academic Integrity, this section explicitly documents the use of AI tools (Google Gemini) during the completion of this project.
 
@@ -108,8 +108,6 @@ In accordance with the DSA 210 Project Guidelines regarding Academic Integrity, 
 
 
 ### Log of Specific Prompts and AI Outputs
-
-
 
 **1. Assistance with Machine Learning Code**
 
@@ -124,6 +122,9 @@ In accordance with the DSA 210 Project Guidelines regarding Academic Integrity, 
 * **User Prompt:** Provided raw text strings of sleep hours and screen time (e.g., *"7h, 4h 40m, 8h 20m"*).
 
 * **AI Output:** Converted time formats into decimals for pandas compatibility (e.g., 4.67, 8.33).
+
+
+
 
 
 
